@@ -29,4 +29,4 @@ To run these files smoothly, make sure you have the following:
 ### 📦 Install dependencies:
 
 ```bash
-pip install opencv-python numpy
+pip install opencv-contrib-python numpy
