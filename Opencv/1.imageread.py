@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
@@ -19,4 +18,3 @@ import cv2 as cv
 Matrix = cv.imread('pictures/4.png')
 cv.imshow('3.png' , Matrix)
 cv.waitKey(0)
->>>>>>> 4e12cabbdd49b83263e1e42630ef03e2abd0bc1f
