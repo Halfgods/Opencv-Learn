@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import cv2 as cv
 capture = cv.VideoCapture(0)  
 '''WebCam'''
@@ -22,5 +22,5 @@ while True:
         break
     
 capture.release()
->>>>>>> 4e12cabbdd49b83263e1e42630ef03e2abd0bc1f
+
 cv.destroyAllWindows()
