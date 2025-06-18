@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import cv2 as cv
 # For images
 # frame = cv.imread('pictures/cat.jpg')
@@ -115,5 +115,3 @@ except Exception as e:
     print("uh oh",e)
 capture.release()
 cv.destroyAllWindows()
-
->>>>>>> 4e12cabbdd49b83263e1e42630ef03e2abd0bc1f
